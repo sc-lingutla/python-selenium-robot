@@ -7,7 +7,7 @@ Framework syntax.
 
 # Project Structure
 python-selenium-robot/
-|
+│
 ├── config/ # Robot Framework test setup configuration
 │ └── config.py
 │
